@@ -2,7 +2,6 @@
 
 pip install jaal
 
-
 ### Running File:
 > python plot.py
 
@@ -19,7 +18,15 @@ Edges File:
 
 >From(X), To(Y), Relation(Who is Y of X?)
 
-
 ### Example Edge Queries
 > relation == "Son"
 > relation == "Son" or relation == "Daughter"
+
+
+### Relationship Types:
+- Son
+- Daughter
+- Father
+- Mother
+- Husband
+- Wife
